@@ -1,2 +1,3 @@
-nodel.pdf
-nobel.aux
+*.log
+*.pdf
+*.aux
